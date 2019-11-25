@@ -279,6 +279,7 @@ These tools are not part of the main toolchain and maintained separately by thei
 * [ypsilon](https://github.com/P4T12ICK/ypsilon) - Automated Use Case Testing 
 * [RANK VASA](https://globenewswire.com/news-release/2019/03/04/1745907/0/en/RANK-Software-to-Help-MSSPs-Scale-Cybersecurity-Offerings.html)
 * [TA-Sigma-Searches](https://github.com/dstaulcu/TA-Sigma-Searches) (Splunk App)
+* [Atomic-Threat-Coverage](https://github.com/atc-project/atomic-threat-coverage) (Detection Rules)
 
 # Contribution
 
